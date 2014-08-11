@@ -1,0 +1,38 @@
+body{
+	font-family: calibri;
+	color: #818180;
+}
+
+h1{
+	text-align: center;
+	color:#3AB1BB;
+}
+
+#opciones{
+		background-color: #cccccc;		
+
+}
+
+img{
+	 float:right;
+	 width: 30%;
+}
+div#opciones {
+background-color: #cccccc;
+text-align: center;
+}
+
+
+
+#opciones > div {
+	display: inline-block;
+	width: 15%;
+	height: 100px;
+	background-color: #3AB1BB;
+	margin:2%;
+	vertical-align: center;
+	cursor:pointer;
+	font-size: 2em;
+	padding-top: 2em;
+	color: #fff;
+}
