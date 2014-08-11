@@ -1,8 +1,3 @@
-var piedra = 0;
-var papel = 1;
-var tijera = 2;
-var lagarto = 3;
-var spock = 4;
 var opciones = ["Piedra", "Papel", "Tijera","Lagarto","Spock"];
 
 function play (usuario) {
